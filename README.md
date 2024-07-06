@@ -8,10 +8,10 @@
 ゲーム制作ではunityroomへの投稿もしています。
 
 ### 所属
--法政大学　小金井キャンパス　サークル　計算機同好会（K3)
--法政大学　理工学部　応用情報工学科　尾川研究室（画像工学研究室）
+- 法政大学　小金井キャンパス　サークル　計算機同好会（K3)
+- 法政大学　理工学部　応用情報工学科　尾川研究室（画像工学研究室）
 
 
 #### URL
--[unityroom](https://unityroom.com/users/180qyjnv5h94erbzl2m7)
+- [unityroom](https://unityroom.com/users/180qyjnv5h94erbzl2m7)
  
